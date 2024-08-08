@@ -20,7 +20,7 @@ This Web Scraping App is a Python-based GUI tool designed to scrape quotes, auth
 ### Installation
 1. Clone this repository:
 ```sh
-git clone https://github.com/yourusername/web-scraping-app.git
+git clone https://github.com/EpicNesh26/Python-WebScraping-App.git
 cd web-scraping-app
 ```
 2. Install the required packages:
